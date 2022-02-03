@@ -43,7 +43,7 @@ td:nth-child(3) {
   
 @font-face {
   font-family: 'fontcol4';
-  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0PartialFlags.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0PartialSlice2.ttf);
 }
 td:nth-child(4) {
   font-family: 'fontcol4';
