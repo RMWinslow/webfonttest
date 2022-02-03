@@ -54,7 +54,7 @@ td:nth-child(4) {
   
 @font-face {
   font-family: 'fontcol5';
-  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0Partial556.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0_fullset.ttf);
 }
 td:nth-child(5) {
   font-family: 'fontcol5';
