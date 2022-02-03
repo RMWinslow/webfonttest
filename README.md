@@ -3,9 +3,11 @@
 
 I'm testing some stuff.
 
-Fonts here are made with Twemoji Project assets.
+Fonts here are made with Twemoji Project assets or assets from the EmojiTwo project..
 
 github.com/twitter/twemoji
+
+github.com/emojitwo
 
 
 
@@ -30,7 +32,7 @@ td:nth-child(2) {
   
 @font-face {
   font-family: 'fontcol3';
-  src: url(https://www.rmwinslow.com/webfonts/foo.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoCOLRv0.ttf);
 }
 td:nth-child(3) {
   font-family: 'fontcol3';
