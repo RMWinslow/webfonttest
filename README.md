@@ -21,7 +21,7 @@ td {
   
 @font-face {
   font-family: 'fontcol2';
-  src: url(https://www.rmwinslow.com/webfonts/TwemojiNanoCOLRv0Partial.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/TwemojiNanoCOLRv0.ttf);
 }
 td:nth-child(2) {
   font-family: 'fontcol2';
@@ -43,7 +43,7 @@ td:nth-child(3) {
   
 @font-face {
   font-family: 'fontcol4';
-  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0Partial.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0PartialFlags.ttf);
 }
 td:nth-child(4) {
   font-family: 'fontcol4';
