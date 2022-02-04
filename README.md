@@ -32,7 +32,7 @@ td:nth-child(2) {
   
 @font-face {
   font-family: 'fontcol3';
-  src: url(https://www.rmwinslow.com/webfonts/e2nanoBBBBABA.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0_fullset.ttf);
 }
 td:nth-child(3) {
   font-family: 'fontcol3';
@@ -43,7 +43,7 @@ td:nth-child(3) {
   
 @font-face {
   font-family: 'fontcol4';
-  src: url(https://www.rmwinslow.com/webfonts/e2nanoBBBBABAAA.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0_no3000.ttf);
 }
 td:nth-child(4) {
   font-family: 'fontcol4';
