@@ -32,7 +32,7 @@ td:nth-child(2) {
   
 @font-face {
   font-family: 'fontcol3';
-  src: url(https://www.rmwinslow.com/webfonts/EmojiTwoNanoCOLRv0_fullset.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/OpenMojiCOLRv0_partial.ttf);
 }
 td:nth-child(3) {
   font-family: 'fontcol3';
