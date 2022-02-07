@@ -1,9 +1,9 @@
 # webfonts
 
 
-I'm testing some stuff.
+I'm testing some stuff. Please don't pay attention to this.
 
-Fonts here are made with Twemoji Project assets or assets from the EmojiTwo project..
+Fonts here are made with Twemoji Project assets or assets from the EmojiTwo project.. Or from the Noto Emoji Project.
 
 github.com/twitter/twemoji
 
