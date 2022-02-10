@@ -60,10 +60,9 @@ td:nth-child(4) {
   
 @font-face {
   font-family: 'fontcol5';
-  src: url(https://www.rmwinslow.com/webfonts/e2nanoBBBBABAAB.ttf);
+  src: url(https://www.rmwinslow.com/webfonts/fftest2.otf);
 }
 td:nth-child(5) {
-  color: red;
   font-family: 'fontcol5';
   font-size: 48px;
   padding: 0px;
