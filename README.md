@@ -24,9 +24,10 @@ td {
   
 @font-face {
   font-family: 'fontcol2';
-  src: url(https://www.rmwinslow.com/webfonttest/TwemojiNanoCOLRv0.ttf);
+  src: url(https://www.rmwinslow.com/webfonttest/Openmoji-colrblack.ttf);
 }
 td:nth-child(2) {
+  color: red;
   font-family: 'fontcol2';
   font-size: 48px;
   padding: 0px;
@@ -35,9 +36,10 @@ td:nth-child(2) {
   
 @font-face {
   font-family: 'fontcol3';
-  src: url(https://www.rmwinslow.com/webfonttest/OpenMojiCOLRv0_main.ttf);
+  src: url(https://www.rmwinslow.com/webfonttest/OpenMoji-Black.ttf);
 }
 td:nth-child(3) {
+  color: red;
   font-family: 'fontcol3';
   font-size: 48px;
   padding: 0px;
@@ -46,9 +48,10 @@ td:nth-child(3) {
   
 @font-face {
   font-family: 'fontcol4';
-  src: url(https://www.rmwinslow.com/webfonttest/EmojiTwoNanoCOLRv0_no3000.ttf);
+  src: url(https://www.rmwinslow.com/webfonttest/fftest2.otf);
 }
 td:nth-child(4) {
+  color: red;
   font-family: 'fontcol4';
   font-size: 48px;
   padding: 0px;
@@ -60,6 +63,7 @@ td:nth-child(4) {
   src: url(https://www.rmwinslow.com/webfonts/e2nanoBBBBABAAB.ttf);
 }
 td:nth-child(5) {
+  color: red;
   font-family: 'fontcol5';
   font-size: 48px;
   padding: 0px;
