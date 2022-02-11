@@ -60,7 +60,7 @@ td:nth-child(4) {
   
 @font-face {
   font-family: 'fontcol5';
-  src: url(https://www.rmwinslow.com/webfonts/OpenMojiLines.otf);
+  src: url(https://www.rmwinslow.com/webfonts/OpenMojiLines.ttf);
 }
 td:nth-child(5) {
   font-family: 'fontcol5';
